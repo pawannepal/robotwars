@@ -1,0 +1,15 @@
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\RobotWars.exe
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\RobotWars.deps.json
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\RobotWars.runtimeconfig.json
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\RobotWars.dll
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\ref\RobotWars.dll
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\bin\Debug\net6.0\RobotWars.pdb
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.csproj.AssemblyReference.cache
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.AssemblyInfoInputs.cache
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.AssemblyInfo.cs
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.csproj.CoreCompileInputs.cache
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.dll
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\ref\RobotWars.dll
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.pdb
+C:\Users\pawan.nepal\source\repos\RobotWars\RobotWars\obj\Debug\net6.0\RobotWars.genruntimeconfig.cache
